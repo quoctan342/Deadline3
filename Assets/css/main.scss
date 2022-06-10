@@ -1,0 +1,15 @@
+@use 'variables';
+@use 'button';
+@use 'content';
+@use 'form';
+@use 'menu';
+@use 'mixins';
+@use 'table';
+@use 'tabs';
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
